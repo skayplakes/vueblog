@@ -108,7 +108,8 @@ return [
     |
     */
 
-    'log' => env('APP_LOG', 'daily'),
+    // 'log' => env('APP_LOG', 'daily'),
+    'log' => 'errorlog',
 
     'log_level' => env('APP_LOG_LEVEL', 'debug'),
 
