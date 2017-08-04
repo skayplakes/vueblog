@@ -46,7 +46,7 @@
 {{-- AdminLTE js --}}
 <script src="/lte/js/app.min.js"></script>
 <!-- JavaScripts -->
-<script src="{{ asset('/js/main.js') }}"></script>
+<script src="{{ asset('js/main.js') }}"></script>
 
 <!-- Live Reload -->
 @if ( Config::get('app.debug') )
