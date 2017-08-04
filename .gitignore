@@ -1,6 +1,5 @@
 /vendor
 /node_modules
-/public/storage
 .env
 .idea/
 .phpstorm.meta.php
